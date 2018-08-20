@@ -7,7 +7,7 @@
     <h3>Preffered Skills</h3>
     <p>
       <b>Sphere:</b> Web development, Data Structures, System Architecture<br>
-      <b>Technologies:</b> Golang, Vue.js, Nuxt.js, Git, Linux, Highload, RabbitMQ, JavaScript, HTML, CSS, TCP/IP, PostgreSQL, Tarantool<br>
+      <b>Technologies:</b> Golang, GRPC, Protobuf, Vue.js, Nuxt.js, Git, Linux, Highload, RabbitMQ, JavaScript, HTML, CSS, TCP/IP, PostgreSQL, Tarantool<br>
     </p>
 
     <h3>Essential Links</h3>
@@ -102,6 +102,23 @@
       Airfreights<br><br>
       Development of modules of enterprise decision support system (C # and Oracle)
     </p>
+    <br>
+
+    <h1>Higher education</h1>
+    <h2>Moscow State Technical University of Civil Aviation</h2>
+    <a href="http://www.mstuca.ru" target="_blank" rel="noopener">mstuca.ru</a><br>
+    <p>
+      <b>2018</b><br>
+      Applied Mathematics and Computer Engineering, <b>Degree Applicant</b><br>
+    </p>
+    <p>
+      <b>2008</b><br>
+      Applied Mathematics and Computer Engineering, Computing machines, complexes, systems and networks, <b>Specialist</b><br>
+    </p>
+    <br>
+
+    <h1>About me</h1>
+    <p>I love active leisure, in my spare time I'm fond of writing electronic music.</p>
 
   </div>
 </template>
