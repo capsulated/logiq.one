@@ -4,7 +4,7 @@
     <h2>Remote Golang and Vue.js web developer</h2>
     <p>Male, 33 years, born on 29 July 1985</p>
 
-    <h3>Preffered Skills</h3>
+    <h3>Preferred Skills</h3>
     <p>
       <b>Sphere:</b> Web development, Data Structures, System Architecture<br>
       <b>Technologies:</b> Golang, GRPC, Protobuf, Vue.js, Nuxt.js, Git, Linux, Highload, RabbitMQ, JavaScript, HTML, CSS, TCP/IP, PostgreSQL, Tarantool<br>
