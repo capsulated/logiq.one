@@ -1,28 +1,22 @@
 <template>
-  <div id="app">
-    <img alt="I am" src="./assets/photo.png">
-    <Welcome msg="Romanov Nikita"/>
-  </div>
+    <div id="app">
+        <router-view />
+    </div>
 </template>
 
 <script>
-import Welcome from './components/Welcome.vue'
+import Resume from './components/resume/Resume.vue'
+import Home from './components/home/Home.vue'
+import Science from './components/science/Science.vue'
 
 export default {
   name: 'app',
   components: {
-    Welcome
+    Home, Science, Resume
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>
