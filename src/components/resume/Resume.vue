@@ -59,6 +59,10 @@
                         <a href="https://gitlab.com/logiq.tech" target="_blank">
                             <i class="fab fa-gitlab"></i>
                         </a>
+                        <a href="https://twitter.com/RomanovNikita1" target="_blank">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+
                     </div>
                 </div>
             </section>
