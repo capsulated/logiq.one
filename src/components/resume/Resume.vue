@@ -535,5 +535,7 @@
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="scss">
+    @import "./vendor/bootstrap/css/bootstrap.min.css";
+    @import "./vendor/fontawesome-free/css/all.min.css";
     @import "./scss/resume.scss";
 </style>
