@@ -56,9 +56,7 @@
                         <a href="https://github.com/logiqone" target="_blank">
                             <i class="fab fa-github"></i>
                         </a>
-                        <a href="https://gitlab.com/logiq.tech" target="_blank">
-                            <i class="fab fa-gitlab"></i>
-                        </a>
+
                         <a href="https://twitter.com/RomanovNikita1" target="_blank">
                             <i class="fab fa-twitter"></i>
                         </a>

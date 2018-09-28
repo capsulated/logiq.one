@@ -1,5 +1,5 @@
 <template>
-    
+    <div>Chapter 2</div>
 </template>
 
 <script>

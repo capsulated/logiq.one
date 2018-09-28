@@ -2,16 +2,6 @@
     <div class="page">
         <div class="container">
             Chapter 1
-            <nav>
-                <router-link class="custon-nav-link" to="/">Главная</router-link>
-                <router-link class="custon-nav-link" to="/science/">Статья к Публикации</router-link>
-                <router-link class="custon-nav-link" to="/science/abstract">Автореферат</router-link>
-                <router-link class="custon-nav-link" to="/science/сhapter-1">Глава 1</router-link>
-                <router-link class="custon-nav-link" to="/science/сhapter-2">Глава 2</router-link>
-                <router-link class="custon-nav-link" to="/science/сhapter-3">Глава 3</router-link>
-                <router-link class="custon-nav-link" to="/science/сhapter-4">Глава 4</router-link>
-            </nav>
-            <router-view />
         </div>
     </div>
 </template>

@@ -35,7 +35,6 @@ export default new Router({
     },
     {
       path: '/chapter1',
-      name: 'chapter1',
       component: Chapter1
     },
     {

@@ -5,10 +5,10 @@
                 <router-link class="custon-nav-link" to="/">Главная</router-link>
                 <router-link class="custon-nav-link" to="/science/">Статья к Публикации</router-link>
                 <router-link class="custon-nav-link" to="/abstract">Автореферат</router-link>
-                <router-link class="custon-nav-link" to="/сhapter1">Глава 1</router-link>
-                <router-link class="custon-nav-link" to="/сhapter2">Глава 2</router-link>
-                <router-link class="custon-nav-link" to="/сhapter3">Глава 3</router-link>
-                <router-link class="custon-nav-link" to="/сhapter4">Глава 4</router-link>
+                <router-link class="custon-nav-link" to="/chapter1">Глава 1</router-link>
+                <router-link class="custon-nav-link" to="/chapter2">Глава 2</router-link>
+                <router-link class="custon-nav-link" to="/chapter3">Глава 3</router-link>
+                <router-link class="custon-nav-link" to="/chapter4">Глава 4</router-link>
             </nav>
             <router-view />
         </div>
@@ -177,6 +177,7 @@
         width: 450px;
         margin: 50px auto 50px auto;
     }
+
     h1 {
         margin: 25px 0;
         font-family: "Ubuntu", sans-serif;
@@ -210,7 +211,6 @@
         line-height: 28px;
         margin-bottom: 25px;
     }
-
 
     nav {
         margin-top: 20px;
