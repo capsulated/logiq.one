@@ -3,7 +3,7 @@
         <h1>Logiq.One Web Laboratory</h1>
         <nav>
             <router-link class="custon-nav-link" to="/">Home</router-link>
-            <router-link class="custon-nav-link" to="/science">Science</router-link>
+            <a class="custon-nav-link" href="http://sci.logiq.one" target="_blank">Science</a>
             <router-link class="custon-nav-link" to="/resume">Resume</router-link>
         </nav>
         <router-view />
